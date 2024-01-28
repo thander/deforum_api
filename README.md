@@ -15,3 +15,4 @@ https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15
 wget https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth -O /runpod-volume/my-stable-diffusion-webui/extensions/sd-webui-controlnet/models/control_v11p_sd15_openpose.pth# deforum_api
 # deforum_api
 # deforum_api
+# deforum_api
